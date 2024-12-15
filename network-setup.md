@@ -1,0 +1,13 @@
+1941 Router0
+
+2960-24TT Switch0
+PC0 IP: 168.90.0.11
+PC1 IP: 168.90.0.12
+Laptop0 IP: 168.90.0.13
+Server0 IP: 168.90.0.14
+
+2960-24TT Switch1
+Server1 IP: 210.3.14.11
+Server2 IP: 210.3.14.12
+PC2 IP: 210.3.14.13
+
