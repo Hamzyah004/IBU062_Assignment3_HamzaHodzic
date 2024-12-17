@@ -15,3 +15,11 @@ Updates:
 On Switch0 - PC3 
 On Switch1 - PC4
 
+New Branch updates:  
+I entered into CLI of the router and accessed both of the interfaces (GigabitEthernet0/0 and 0/1)  
+added them given ip addresses and dns (ip address x.x.x.x 255.255.x.x) also I used no shutdown command  
+After that I made two pools for two of my switches (ip dhcp POOL_NAME), and than used commands (networ and default-router)  
+to assign default ip addresses. Than I excluded two addresses which will be assigned to the routers.  
+Then I went to every end device, desktop tab, Ip config and switched to DHCP. Every end device got its automatic  
+ip address 
+
