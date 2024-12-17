@@ -11,3 +11,7 @@ Server1 IP: 210.3.14.11
 Server2 IP: 210.3.14.12
 PC2 IP: 210.3.14.13
 
+Updates:  
+On Switch0 - PC3 
+On Switch1 - PC4
+
